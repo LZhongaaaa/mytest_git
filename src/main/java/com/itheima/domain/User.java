@@ -5,4 +5,5 @@ public class User {
     private String username;
     private String password;
     private String heihei;
+    private String zhuxian;
 }
